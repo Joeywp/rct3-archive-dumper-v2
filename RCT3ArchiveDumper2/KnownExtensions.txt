@@ -1,0 +1,10 @@
+.fc
+.wjt
+.frw
+.fwd
+.dat
+.pc
+.lwr
+.las
+.pool
+.prf
